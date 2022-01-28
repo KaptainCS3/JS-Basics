@@ -1,3 +1,4 @@
+    //done by KaptainCS3    28 /01/ 2022
 let num1 = 50;
 let num2 = 7;
 let num3 = 3.874;
