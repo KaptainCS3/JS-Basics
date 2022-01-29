@@ -1,5 +1,5 @@
             /* its a concept for representing values of mathematical 
-                        operations with are not number*/
+                        operations which are not number*/
             // its consider a number in JS :( 
         //example of NaN
 
