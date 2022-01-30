@@ -3,8 +3,8 @@
 
         //string properties and methods
 let today = 'Saturday'.length; // property
-let name = 'robert'.toLocaleUpperCase(); // method
-let greeting = '   good morning friends   '.trim(); // remove white space at the begining at end of a string
+const name = "John Doe"
+let str = "good evening"
 console.log(today); // returns string's length
-console.log(name);
-console.log(greeting);
+console.log(name[5]); //returns string index at position 5
+console.log(str[8]);
