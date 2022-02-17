@@ -1,0 +1,8 @@
+**First JS data structure
+**Section will cover**
+-Array Basics (Creating and Updating)
+-Push & Pop
+-Shift & Unshift
+-Concatination, indexOf
+-Slice & Splice
+-Multi Dimension Arrays
