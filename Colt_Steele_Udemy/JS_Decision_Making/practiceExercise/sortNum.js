@@ -1,18 +1,3 @@
-// let a,b,c,d,e = 10;
-
-// for(let i = 2; i <= 18; i++){
-//     d = e + i;
-//     c = d + i;
-//     b = c + i;
-//     a = b + i;
-//     console.log(`value for A: ${a}`);
-//     console.log(`value for B: ${b}`);
-//     console.log(`value for C: ${c}`);
-//     console.log(`value for D: ${d}`);
-//     console.log(`value for E: ${e}`);
-//     console.log(" ")
-// }
-
 
 let num1 = parseInt(prompt("Enter num1"));
 let num2 = parseInt(prompt("Enter num2"));
