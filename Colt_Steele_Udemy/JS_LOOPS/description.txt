@@ -1,0 +1,10 @@
+Getting started with Loops
+Section Objective
+    - For Loops
+    - Nested Loops
+    - While Loops
+    - The Break Keyboard
+    - For Of Loops
+    - For In Loops
+    - Iterating Arrays
+    - Iterating Objects
