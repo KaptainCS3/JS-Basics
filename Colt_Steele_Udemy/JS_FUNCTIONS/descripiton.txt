@@ -1,0 +1,6 @@
+Getting started with Loops
+Section Objective
+    -Working With Arguments
+    -Function Return Values
+    -Defining Function
+    -Function Exercise
