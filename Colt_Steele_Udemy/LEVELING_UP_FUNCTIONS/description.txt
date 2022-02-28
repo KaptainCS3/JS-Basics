@@ -1,0 +1,10 @@
+Getting started with levelingUpFunctions
+Section Objective
+    -Function Scope
+    -Block Scope
+    -Lexical Scope
+    -Function Expression
+    -High Order levelingUpFunctions
+    -Returning levelingUpFunctions
+    -The Keyword "this"
+    -Adding Methods To Objects
